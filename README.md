@@ -37,7 +37,7 @@ RayManageSoft Unified Endpoint Manager images are available on docker hub:
 * [`https://hub.docker.com/r/raynetgmbh/raymanagesoft-uem-backend`](https://hub.docker.com/r/raynetgmbh/raymanagesoft-uem-backend)
 * [`https://hub.docker.com/r/raynetgmbh/raymanagesoft-uem-frontend`](https://hub.docker.com/r/raynetgmbh/raymanagesoft-uem-frontend)
 
-You can use tags `3.0` or `stable` to get the last 3.0 or the last stable version respectively. You will find the complete list of tags on the respective Docker Hub page.
+You can use tags `3.1` or `stable` to get the last 3.1 or the last stable version respectively. You will find the complete list of tags on the respective Docker Hub page.
 
 ### Environment variables
 
@@ -214,10 +214,13 @@ The product can be activated using one of the following methods.
 
 ## Documentation
 
-* [Release notes (PDF)](https://github.com/RaynetEALM/RayManageSoftUEM/blob/main/docs/RayManageSoft_Unified_Endpoint_Manager_3.0_Release_Notes.pdf)
-* [Installation Guide (PDF)](https://github.com/RaynetEALM/RayManageSoftUEM/blob/main/docs/RayManageSoft_Unified_Endpoint_Manager_3.0_Installation_Guide.pdf)
-* [User Guide (PDF)](https://github.com/RaynetEALM/RayManageSoftUEM/blob/main/docs/RayManageSoft_Unified_Endpoint_Manager_3.0_User_Guide.pdf)
-* [Operations Supplement (PDF)](https://github.com/RaynetEALM/RayManageSoftUEM/blob/main/docs/RayManageSoft_Unified_Endpoint_Manager_3.0_Operations_Supplement.pdf)
+* [Release notes](https://docs.raynet.de/raymanagesoft/uem/3.1/release-notes/en/index.html)
+* [Installation Guide](https://docs.raynet.de/raymanagesoft/uem/3.1/installation-guide/en/index.html)
+* [User Guide](https://docs.raynet.de/raymanagesoft/uem/3.1/user-guide/en/index.html)
+* [Operations Supplement](https://docs.raynet.de/raymanagesoft/uem/3.1/operations-supplement/en/index.html)
+* Instructions for RMS UEM Agent:
+  * [Windows](https://docs.raynet.de/raymanagesoft/uem/3.1/agent-win/en/index.html)
+  * [macOS](https://docs.raynet.de/raymanagesoft/uem/3.1/agent-mac/en/index.html)
 
 ## More information
 
